@@ -1,4 +1,4 @@
-# Home assistant add-on: alexbelgium - SpookyFM fork Nextcloud rollback
+# Home assistant add-on: SpookyFM fork from alexbelgium for Nextcloud rollback
 
 <!-- markdownlint-disable MD033 -->
 
