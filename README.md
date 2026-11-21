@@ -1288,4 +1288,4 @@ You have several options to get them answered:
 [full_access-badge]: https://img.shields.io/badge/Requires-full_access-orange.svg
 [forum]: https://community.home-assistant.io/t/alexbelgium-repo-60-addons
 [repository-badge]: https://img.shields.io/badge/Add%20repository%20to%20my-Home%20Assistant-41BDF5?logo=home-assistant&style=for-the-badge
-[repository-url]: https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https%3A%2F%2Fgithub.com%2Falexbelgium%2Fhassio-addons
+[repository-url]: https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https%3A%2F%2Fgithub.com%2FMFykoopS%2Fhassio-addons-nextcloud
