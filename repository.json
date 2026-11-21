@@ -1,6 +1,6 @@
 {
-  "name": "HA Add-ons by alexbelgium",
+  "name": "HA Add-ons fork from alexbelgium by SpookyFM for Nextcloud rollback",
   "udev": true,
-  "url": "https://github.com/alexbelgium/hassio-addons",
-  "maintainer": "alexbelgium"
+  "url": "https://github.com/MFykoopS/hassio-addons-nextcloud",
+  "maintainer": "MFykoopS"
 }
