@@ -4,5 +4,5 @@
   "slug": "nextcloud",
   "source": "github",
   "upstream_repo": "linuxserver/docker-nextcloud",
-  "upstream_version": "35.0.3"
+  "upstream_version": "34.0.4"
 }
